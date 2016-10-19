@@ -1,0 +1,44 @@
+Address A
+Address B
+Address C
+Register bank
+C
+A
+B
+InA
+InB
+Exit
+ALU
+MuxB
+Muxy
+Immediate value
+Memory address
+Data in memory
+Return address
+Null
+Null
+Parameter1=
+Parameter2=
+Parameter3=
+DataPathSimulator
+PANEL
+OPTIONS
+CONTROLS
+Current step=
+Insert instruction
+About
+Exit
+COMMANDS
+Datapath Simulator version 1.0
+Development and design by Fabio D'Agostino
+For information email to dfabio@virgilio.it
+Release date:16-10-2016
+Set bank address
+Read bank registers
+Select MuxB enters
+Select MuxB enter 0
+Select MuxB enter 1
+Set Alu enters
+Select MuxY enter 0
+Select MuxY enter 1
+43

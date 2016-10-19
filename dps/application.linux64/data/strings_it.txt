@@ -1,0 +1,44 @@
+Indirizzo A
+Indirizzo B
+Indirizzo C
+Banco di registri
+C
+A
+B
+InA
+InB
+Uscita
+ALU
+MuxB
+Muxy
+Valore immediato
+Indirizzo di memoria
+Dati in memoria
+Indirizzo di rientro
+Null
+Null
+Parametro1=
+Parametro2=
+Parametro3=
+DataPathSimulator
+PANNELLO
+OPZIONI
+CONTROLLI
+Passo corrente=
+Inserire istruzione
+Info
+Esci
+COMANDI
+Datapath Simulator versione 1.0
+Sviluppo e design di Fabio D'Agostino
+Per informazioni scrivere a dfabio@virgilio.it
+Data di rilascio:16-10-2016
+Impostazione indirizzi del banco
+Lettura registri del banco
+Selezione ingressi MuXB
+Selezione ingresso 0 MuxB
+Selezione ingresso 1 MuxB
+Impostazione ingressi Alu
+Selezione ingressi 0 MuxY
+Selezione ingressi 1 MuxY
+43
